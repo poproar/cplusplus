@@ -1,4 +1,4 @@
-/*	Author:		Andrew T. Pilcher 0623706
+/*	Author:		Andrew P
 	Program:	CS11 - 34025 Final Project
 	Date:		May 21, 2010
 	Descri:		menu driven program collects employee data, sorts, calculates, and prints- see README.TXT for further details
