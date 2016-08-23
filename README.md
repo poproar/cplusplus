@@ -40,7 +40,7 @@ Please see the file called INSTALL.
 ### Licensing
 ---------
 
-Please see the /docs/ MAUNUAL.
+Please see the /docs/ MANUAL.
 
 
 ### Cryptography 
